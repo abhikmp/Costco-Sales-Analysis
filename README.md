@@ -1,4 +1,4 @@
-# Costco Sales Dashboard
+# Costco Sales [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzFjOWYyZGItNWRlZC00ZWJmLTg0YmItNDg0YjlmY2Q4MjQ2IiwidCI6ImY5ODg0Yzc0LTBhNTUtNDA0OC05ZTQxLWFjMzY1YTg1OWMyYyJ9)
 
 ## 📊 Project Overview
 
@@ -97,6 +97,21 @@ This dashboard enables Costco’s management to:
 ## 🔗 Explore the Project
 
 [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzFjOWYyZGItNWRlZC00ZWJmLTg0YmItNDg0YjlmY2Q4MjQ2IiwidCI6ImY5ODg0Yzc0LTBhNTUtNDA0OC05ZTQxLWFjMzY1YTg1OWMyYyJ9)
+
+Feel free to explore and reach out with any questions or feedback!
+
+---
+
+## 🔗 Report Screenshots
+
+### **Sales Overview Dashboard**  
+![Sales Overview](./scrshots/sales_main.png)  
+
+### **2021 Sales Overview Dashboard**  
+![Sales Overview](./scrshots/sales_2021.png)  
+
+### **Sales Overview Dashboard with Filters applied**  
+![Product Analysis](./scrshots/filter_pane.png)  
 
 Feel free to explore and reach out with any questions or feedback!
 
